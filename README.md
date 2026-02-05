@@ -1,6 +1,12 @@
 # MindFlow
 
-Hiperpersonalizowana aplikacja medytacyjna generowana przez AI.
+> AI-powered personalized meditation app with voice synthesis
+
+[![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+Generate unique meditation sessions tailored to your mood, goals, and available time. Each session is crafted by AI and delivered with natural voice synthesis.
 
 ## Quick Start
 
@@ -98,6 +104,10 @@ Based on advanced techniques:
 - Earth/Universe energy connection
 - Infinity mindset - abundance for all
 
+## License
+
+MIT
+
 ---
 
-Made with 🧘 by Exhuman
+Built by [Exhuman](https://github.com/exhuman777)

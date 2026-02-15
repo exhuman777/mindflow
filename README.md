@@ -7,7 +7,30 @@
 ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝     ╚══════╝ ╚═════╝  ╚══╝╚══╝
 ```
 
-# MindFlow
+<p align="center">
+  <strong>MindFlow</strong>
+</p>
+
+<p align="center">
+  <em>AI-Powered Personalized Meditation</em>
+</p>
+
+<p align="center">
+  <a href="#setup">App</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/framework-Next.js%2014-purple" alt="Next.js 14" />
+  <img src="https://img.shields.io/badge/voice-ElevenLabs%20TTS-brightgreen" alt="ElevenLabs TTS" />
+  <img src="https://img.shields.io/badge/ai-DeepSeek%20/%20Kimi-blue" alt="DeepSeek / Kimi" />
+  <img src="https://img.shields.io/badge/payments-Stripe-orange" alt="Stripe" />
+</p>
+
+---
+
+**Generated meditation sessions tailored to your mood, goals, and time.**
+
+AI generates personalized meditation scripts based on mood, goals, and available time. ElevenLabs synthesizes calming voice audio. Gamification with streaks and challenges. Stripe payments for premium features.
 
 > AI-powered personalized meditation app with voice synthesis
 
